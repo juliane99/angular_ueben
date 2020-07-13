@@ -13,3 +13,9 @@ export class HomeComponent implements OnInit {
   }
 
 }
+
+// bei starten von routing (klicken auf Component) alert ausgeben lassen und bei ende von routing 
+
+// über router ausgeben, wann es beginnt und wann es endet -->
+
+// router modul anschauen 
